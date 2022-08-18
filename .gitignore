@@ -1,0 +1,4 @@
+### IntelliJ IDEA ###
+app/target/**
+java-agent/target
+.idea
