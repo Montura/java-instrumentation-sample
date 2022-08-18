@@ -11,6 +11,7 @@
     <modules>
         <module>java-agent</module>
         <module>app</module>
+        <module>java-agent-counter</module>
     </modules>
 
     <packaging>pom</packaging>
